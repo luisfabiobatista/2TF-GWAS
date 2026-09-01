@@ -1,5 +1,6 @@
 # 2TF-GWAS
 It is a script for two steps fitting-GWAS of quantitative traits in R in order to find high-acurated genotype-phenotype associations. First step: quality control of canine visceral leishmaniasis traits using epidemiological traits as covariates in a linear regression model. Second step: residual normalization from the model selected in first step.
+Author: Luís Fábio Batista
 
 setwd("/media/fmusp/TOSHIBA EXT/Documentos/DOCUMENTOS EM 18-9-2017/Documentos/POS DOC/BEPE/Analise_Projeto/GWAS_H-W_test")
 
